@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-rabbitmq-pubsub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashide2729",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.6.0"
+  }
+}
